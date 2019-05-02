@@ -1,3 +1,4 @@
 # myproject
-welcome to devops
+welcome to dev ops
 echo "hello world"
+testing how to learn"
